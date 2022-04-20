@@ -3,7 +3,7 @@
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 
-WhatsAsena - Yusuf Usta
+WhatsAsena - RHYTHMHACKER
 */
 
 const Asena = require("../Utilis/events")
@@ -91,7 +91,7 @@ This is a good morning wish example
   hour: 23
   minute: 30
 
-  919876543210@s.whatsapp.net * * * * 23 30
+  918547800428@s.whatsapp.net * * * * 23 30
   Good Night Example
 
   jid: 919876543210@s.whatsapp.net
